@@ -1,6 +1,12 @@
-<htmnl>
+<!DOCTYPE htmnl>
+<html>
+<head>
+<title> Allan's First Title</title>
+</head>
+<body>
 
+<h1> This is the heading of Allan's First Title </h1>
+<p> This is the paragraph of Allan's First Title. </p>
 
-
-
+<body>
 <htmnl>
