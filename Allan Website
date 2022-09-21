@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    p{
+        color: black;
+        font-size: large;
+    }
+</style>
+<title> About Allan Alvarez </title>
+</head>
+<body>
+<h1> Here are some details about Allan Alvarez</h1>
+<p> Hello there, my name is Allan Alvarez. I love spending my free time playing video games like Monster Hunter 
+ or Pokemon and I am a fan of anime as well with one of my favorites being Danganronpa.
+ I got into Computer Science because of my love for video games so I want to create video games myself. It has been a rocky
+ road these past 3 years since I feel like I haven't learnt much but this senior year of my college I am finally using
+ all of the knowledge I never thought I would need. I get to show off my skills and become more confident 
+ in my ability to learn as someone who enjoys a challenge. Coding is intimidating for me but I always manage to pull through
+ and come out on top learning that I am smarter than I think I am. I want to be a successful video game programmer and to do that
+ I will have to keep pushing myself despite my slight fear of coding new things. I enjoy the "eureka" moment I get when
+ something I have been working on for so long finally looks and works the way I want it to. I even take pride in making this HTML code by
+ myself since I have to look up all the different commands for HTML and I can honestly say it is pretty fun to see something work so fast.
+ I am in group 8 of my Topics in Computer Science class and I am going to put in some serious effort to show the people on my team
+ that I can put in the work and that I will not let them down.  </p>
+ 
+<img src="AllanPhotohw.jpg" width="500" height="500" style="vertical-align: middle;">
+<table>
+<tr>
+<th>Languages</th>
+<th>Frameworks</th>
+</tr>
+<tr>
+<td>Java</td>
+<td>Android Studios</td>
+</tr>
+<td>HTML</td>
+<td>Eclipse</td>
+<tr>
+</table>
+</body>
+</html>
